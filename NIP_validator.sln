@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIP_validator", "NIP_validator.csproj", "{AB4878E5-2C9F-4F86-9859-8D2C2946E76A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4878E5-2C9F-4F86-9859-8D2C2946E76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4878E5-2C9F-4F86-9859-8D2C2946E76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4878E5-2C9F-4F86-9859-8D2C2946E76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4878E5-2C9F-4F86-9859-8D2C2946E76A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C442B8A-19E1-4982-8FB9-2A959E77EE60}
+	EndGlobalSection
+EndGlobal

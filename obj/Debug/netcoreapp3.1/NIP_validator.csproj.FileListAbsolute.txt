@@ -1,0 +1,12 @@
+/Users/robert/Projects_C#/NIP_validator/bin/Debug/netcoreapp3.1/NIP_validator.deps.json
+/Users/robert/Projects_C#/NIP_validator/bin/Debug/netcoreapp3.1/NIP_validator.runtimeconfig.json
+/Users/robert/Projects_C#/NIP_validator/bin/Debug/netcoreapp3.1/NIP_validator.runtimeconfig.dev.json
+/Users/robert/Projects_C#/NIP_validator/bin/Debug/netcoreapp3.1/NIP_validator.dll
+/Users/robert/Projects_C#/NIP_validator/bin/Debug/netcoreapp3.1/NIP_validator.pdb
+/Users/robert/Projects_C#/NIP_validator/obj/Debug/netcoreapp3.1/NIP_validator.csprojAssemblyReference.cache
+/Users/robert/Projects_C#/NIP_validator/obj/Debug/netcoreapp3.1/NIP_validator.AssemblyInfoInputs.cache
+/Users/robert/Projects_C#/NIP_validator/obj/Debug/netcoreapp3.1/NIP_validator.AssemblyInfo.cs
+/Users/robert/Projects_C#/NIP_validator/obj/Debug/netcoreapp3.1/NIP_validator.csproj.CoreCompileInputs.cache
+/Users/robert/Projects_C#/NIP_validator/obj/Debug/netcoreapp3.1/NIP_validator.dll
+/Users/robert/Projects_C#/NIP_validator/obj/Debug/netcoreapp3.1/NIP_validator.pdb
+/Users/robert/Projects_C#/NIP_validator/obj/Debug/netcoreapp3.1/NIP_validator.genruntimeconfig.cache
